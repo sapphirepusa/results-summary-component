@@ -104,12 +104,11 @@ use the index z */
     justify-content: center;
     align-items: start;
     margin: 2.7rem 0 0 4rem;
-
 }
 
 .summary-content h3 {
     font-size: 1.5rem;
-    margin: 0 0 2.063rem 0;
+    margin: 0 0 1.063rem 0;
 }
 
 .summary-content div {
@@ -117,13 +116,13 @@ use the index z */
     width: 17.938rem;
     text-align: center;
     border-radius: 0.625rem;
-    margin: 0.938rem 0 0.938rem 0;
+    margin: 0.938rem 0 0.338rem 0;
     display: flex;
     align-items: center;
     justify-content: start;
     padding-left: 1rem;
     font-size: 1.125rem;
-    font-weight:700;
+    font-weight:600;
 }
 
 .reaction {
@@ -145,3 +144,16 @@ use the index z */
     background: #F3F3FD;
     color: hsl(234, 85%, 45%);
 }
+
+button {
+    width: 18.938rem;
+    min-height: 3.5rem;
+    border-radius: 1.875rem;
+    border: none;
+    margin-top: 1.625rem;
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(0, 0%, 100%);
+    font-size: 1.125rem;
+
+}
+
