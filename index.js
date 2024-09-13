@@ -1,6 +1,17 @@
 //this is a comment
 
-const firstElement = 'test';
-// console.log(firstElement.textContent);
+document.addEventListener('DOMContentLoaded', ()=> {
+    let name = "sapphire";
+    let exampleName = document.getElementById("exampleId")
+    
+    exampleName.innerText = name;
+})
 
-console.log(firstElement);
+// function sampleName () {
+
+// }
+
+// func = () => {
+
+// }
+
